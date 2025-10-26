@@ -4,7 +4,7 @@ A modern, full-featured ticket management web application built with React, Vite
 
 ## 🚀 Live Demo
 
-**Live URL:** 'https://echika.github.io/react-ticket-app'
+**Live URL:** https://golden-gingersnap-229d1a.netlify.app/
 
 ## 📋 Overview
 
